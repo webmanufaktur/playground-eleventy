@@ -1,0 +1,3 @@
+---
+layout: alpinejs.html
+---

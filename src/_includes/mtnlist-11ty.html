@@ -1,0 +1,23 @@
+<h2>11ty fetch</h2>
+<ol class="flex">
+  {% for dish in mtn.items %}
+  <li class="dish">
+    <div>
+      <div class="title"><strong>{{ dish.dish }}</strong></div>
+      {% if dish.price %}
+      <div class="price"><em>{{ dish.price }} EUR</em></div>
+      {% else %}
+      <div class="price"><em>Tagespreis bitte erfragen</em></div>
+      {% endif %}
+
+      <div>
+        {% for key, value in dish.restaurant %}
+        <div>{{ value.title | safe }}</div>
+        <div>{{ value.lunchtime }}</div>
+        <div>{{ dish.date }}</div>
+        {% endfor %}
+      </div>
+    </div>
+  </li>
+  {% endfor %}
+</ol>

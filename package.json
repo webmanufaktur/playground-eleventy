@@ -1,0 +1,28 @@
+{
+  "name": "11ty-clean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webmanufaktur/playground-eleventy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webmanufaktur/playground-eleventy/issues"
+  },
+  "homepage": "https://github.com/webmanufaktur/playground-eleventy#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.0-canary.16",
+    "@11ty/eleventy-img": "^2.0.1"
+  },
+  "dependencies": {
+    "@11ty/eleventy-fetch": "^3.0.0",
+    "@11ty/eleventy-plugin-webc": "^0.4.0"
+  }
+}

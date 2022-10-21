@@ -1,0 +1,374 @@
+[
+  {
+    "dish": "Picatta von der Putenbrust, kleine Schnitzel in Parmesan-Eih\u00fclle auf Pasta mit Tomatensauce und Strauchtomatensalat",
+    "price": "9,90",
+    "date": "2022-08-30 00:00:00",
+    "restaurant": {
+      "5591": { "title": "Blechnapf", "lunchtime": "11:30 bis 14:30 Uhr" }
+    }
+  },
+  {
+    "dish": "Spanisches Omelette mit Kartoffeln, Gem\u00fcse und Ei",
+    "price": "8,80",
+    "date": "2022-08-30 00:00:00",
+    "restaurant": {
+      "5591": { "title": "Blechnapf", "lunchtime": "11:30 bis 14:30 Uhr" }
+    }
+  },
+  {
+    "dish": "Schweinefiletmedaillons gebraten an Pfefferrahmsauce mit Wurzel-Zucchinigem\u00fcse und Kartoffelkroketten",
+    "price": "12,80",
+    "date": "2022-08-31 00:00:00",
+    "restaurant": {
+      "5591": { "title": "Blechnapf", "lunchtime": "11:30 bis 14:30 Uhr" }
+    }
+  },
+  {
+    "dish": "Spanisches Omelette mit Kartoffeln, Gem\u00fcse und Ei",
+    "price": "8,80",
+    "date": "2022-08-31 00:00:00",
+    "restaurant": {
+      "5591": { "title": "Blechnapf", "lunchtime": "11:30 bis 14:30 Uhr" }
+    }
+  },
+  {
+    "dish": "Th\u00fcringer Rostbratwurst an Lauchgem\u00fcse mit Kartoffeln",
+    "price": "9,50",
+    "date": "2022-09-01 00:00:00",
+    "restaurant": {
+      "5591": { "title": "Blechnapf", "lunchtime": "11:30 bis 14:30 Uhr" }
+    }
+  },
+  {
+    "dish": "Spanisches Omelette mit Kartoffeln, Gem\u00fcse und Ei",
+    "price": "8,80",
+    "date": "2022-09-01 00:00:00",
+    "restaurant": {
+      "5591": { "title": "Blechnapf", "lunchtime": "11:30 bis 14:30 Uhr" }
+    }
+  },
+  {
+    "dish": "Matjesfilets mit gr\u00fcnen Speckbohnen und Bratkartoffeln",
+    "price": "12,50",
+    "date": "2022-09-02 00:00:00",
+    "restaurant": {
+      "5591": { "title": "Blechnapf", "lunchtime": "11:30 bis 14:30 Uhr" }
+    }
+  },
+  {
+    "dish": "Spanisches Omelette mit Kartoffeln, Gem\u00fcse und Ei",
+    "price": "8,80",
+    "date": "2022-09-02 00:00:00",
+    "restaurant": {
+      "5591": { "title": "Blechnapf", "lunchtime": "11:30 bis 14:30 Uhr" }
+    }
+  },
+  {
+    "dish": "Th\u00fcringer Bratwurst mit Sauce, gestovtem Gem\u00fcse und Petersilienkartoffeln",
+    "price": "7,10",
+    "date": "2022-08-29 00:00:00",
+    "restaurant": {
+      "6266": {
+        "title": "Kiek In",
+        "lunchtime": "12:00 bis 13:00 Uhr Abholung"
+      }
+    }
+  },
+  {
+    "dish": "Pasta mit Tagessauce",
+    "price": "5,10",
+    "date": "2022-08-29 00:00:00",
+    "restaurant": {
+      "6266": {
+        "title": "Kiek In",
+        "lunchtime": "12:00 bis 13:00 Uhr Abholung"
+      }
+    }
+  },
+  {
+    "dish": "Champignons in Kr\u00e4utersauce mit Baguettebrot",
+    "price": "5,90",
+    "date": "2022-08-29 00:00:00",
+    "restaurant": {
+      "6266": {
+        "title": "Kiek In",
+        "lunchtime": "12:00 bis 13:00 Uhr Abholung"
+      }
+    }
+  },
+  {
+    "dish": "Putengyros mit Tsatsiki, Krautsalat und BIOreis",
+    "price": "7,70",
+    "date": "2022-08-30 00:00:00",
+    "restaurant": {
+      "6266": {
+        "title": "Kiek In",
+        "lunchtime": "12:00 bis 13:00 Uhr Abholung"
+      }
+    }
+  },
+  {
+    "dish": "Pasta mit Tagessauce",
+    "price": "5,10",
+    "date": "2022-08-30 00:00:00",
+    "restaurant": {
+      "6266": {
+        "title": "Kiek In",
+        "lunchtime": "12:00 bis 13:00 Uhr Abholung"
+      }
+    }
+  },
+  {
+    "dish": "Grie\u00dfbrei mit roter Beerensauce",
+    "price": "4,80",
+    "date": "2022-08-30 00:00:00",
+    "restaurant": {
+      "6266": {
+        "title": "Kiek In",
+        "lunchtime": "12:00 bis 13:00 Uhr Abholung"
+      }
+    }
+  },
+  {
+    "dish": "Schweinenackenbraten mit Sauce, Mischgem\u00fcse und Salzkartoffeln",
+    "price": "7,60",
+    "date": "2022-08-31 00:00:00",
+    "restaurant": {
+      "6266": {
+        "title": "Kiek In",
+        "lunchtime": "12:00 bis 13:00 Uhr Abholung"
+      }
+    }
+  },
+  {
+    "dish": "Pasta mit Tagessauce",
+    "price": "5,10",
+    "date": "2022-08-31 00:00:00",
+    "restaurant": {
+      "6266": {
+        "title": "Kiek In",
+        "lunchtime": "12:00 bis 13:00 Uhr Abholung"
+      }
+    }
+  },
+  {
+    "dish": "Frischer Blumenkohl mit Polnischer Sauce und Kartoffeln",
+    "price": "5,80",
+    "date": "2022-08-31 00:00:00",
+    "restaurant": {
+      "6266": {
+        "title": "Kiek In",
+        "lunchtime": "12:00 bis 13:00 Uhr Abholung"
+      }
+    }
+  },
+  {
+    "dish": "Asiatische Gefl\u00fcgel-Gem\u00fcsepfanne mit Curryreis",
+    "price": "7,30",
+    "date": "2022-09-01 00:00:00",
+    "restaurant": {
+      "6266": {
+        "title": "Kiek In",
+        "lunchtime": "12:00 bis 13:00 Uhr Abholung"
+      }
+    }
+  },
+  {
+    "dish": "Pasta mit Tagessauce",
+    "price": "5,10",
+    "date": "2022-09-01 00:00:00",
+    "restaurant": {
+      "6266": {
+        "title": "Kiek In",
+        "lunchtime": "12:00 bis 13:00 Uhr Abholung"
+      }
+    }
+  },
+  {
+    "dish": "Vegetarische Fr\u00fchlingsrolle mit Asiasauce und Bioreis",
+    "price": "6,80",
+    "date": "2022-09-01 00:00:00",
+    "restaurant": {
+      "6266": {
+        "title": "Kiek In",
+        "lunchtime": "12:00 bis 13:00 Uhr Abholung"
+      }
+    }
+  },
+  {
+    "dish": "Ged\u00fcnstetes Lachsfilet auf Gem\u00fcsestreifen mit Dillsauce, Tomatenspinat und Salzkartoffeln",
+    "price": "7,90",
+    "date": "2022-09-02 00:00:00",
+    "restaurant": {
+      "6266": {
+        "title": "Kiek In",
+        "lunchtime": "12:00 bis 13:00 Uhr Abholung"
+      }
+    }
+  },
+  {
+    "dish": "Pasta mit Tagessauce",
+    "price": "5,10",
+    "date": "2022-09-02 00:00:00",
+    "restaurant": {
+      "6266": {
+        "title": "Kiek In",
+        "lunchtime": "12:00 bis 13:00 Uhr Abholung"
+      }
+    }
+  },
+  {
+    "dish": "R\u00f6stkartoffeln mit Grillgem\u00fcse und Kr\u00e4utersauce",
+    "price": "6,10",
+    "date": "2022-09-02 00:00:00",
+    "restaurant": {
+      "6266": {
+        "title": "Kiek In",
+        "lunchtime": "12:00 bis 13:00 Uhr Abholung"
+      }
+    }
+  },
+  {
+    "dish": "Rib Eye Steak mit Kr\u00e4uterbutter, R\u00f6stkartoffeln und Salat",
+    "price": "9,40",
+    "date": "2022-09-03 00:00:00",
+    "restaurant": {
+      "6266": {
+        "title": "Kiek In",
+        "lunchtime": "12:00 bis 13:00 Uhr Abholung"
+      }
+    }
+  },
+  {
+    "dish": "Pasta mit Tagessauce",
+    "price": "5,10",
+    "date": "2022-09-03 00:00:00",
+    "restaurant": {
+      "6266": {
+        "title": "Kiek In",
+        "lunchtime": "12:00 bis 13:00 Uhr Abholung"
+      }
+    }
+  },
+  {
+    "dish": "Lauch-Gem\u00fcsequiche mit Kr\u00e4uterschmand",
+    "price": "6,10",
+    "date": "2022-09-03 00:00:00",
+    "restaurant": {
+      "6266": {
+        "title": "Kiek In",
+        "lunchtime": "12:00 bis 13:00 Uhr Abholung"
+      }
+    }
+  },
+  {
+    "dish": "Vollkornbratling Blumenkohl-Curry mit Erbsen Reisnudeln",
+    "desc": "Tagespreis bitte erfragen",
+    "date": "2022-08-29 00:00:00",
+    "restaurant": {
+      "5611": {
+        "title": "Lebensmittel&shy;institut KIN e.V.",
+        "lunchtime": "12:00 bis 13:15 Uhr (Bestellung bis 10 Uhr)"
+      }
+    }
+  },
+  {
+    "dish": "Pilzpfanne mit Speck Kartoffelr\u00f6sti und Salatbeilage",
+    "desc": "Tagespreis bitte erfragen",
+    "date": "2022-08-29 00:00:00",
+    "restaurant": {
+      "5611": {
+        "title": "Lebensmittel&shy;institut KIN e.V.",
+        "lunchtime": "12:00 bis 13:15 Uhr (Bestellung bis 10 Uhr)"
+      }
+    }
+  },
+  {
+    "dish": "Vegetarische Kl\u00f6\u00dfe K\u00e4sesahneso\u00dfe Pasta und Salatbeilage",
+    "desc": "Tagespreis bitte erfragen",
+    "date": "2022-08-30 00:00:00",
+    "restaurant": {
+      "5611": {
+        "title": "Lebensmittel&shy;institut KIN e.V.",
+        "lunchtime": "12:00 bis 13:15 Uhr (Bestellung bis 10 Uhr)"
+      }
+    }
+  },
+  {
+    "dish": "Gemischte Bratenplatte Remouladenso\u00dfe Bratkartoffeln Salatbeilage",
+    "desc": "Tagespreis bitte erfragen",
+    "date": "2022-08-30 00:00:00",
+    "restaurant": {
+      "5611": {
+        "title": "Lebensmittel&shy;institut KIN e.V.",
+        "lunchtime": "12:00 bis 13:15 Uhr (Bestellung bis 10 Uhr)"
+      }
+    }
+  },
+  {
+    "dish": "Chili sin Carne mit Gem\u00fcse und Fladenbrot",
+    "desc": "Tagespreis bitte erfragen",
+    "date": "2022-08-31 00:00:00",
+    "restaurant": {
+      "5611": {
+        "title": "Lebensmittel&shy;institut KIN e.V.",
+        "lunchtime": "12:00 bis 13:15 Uhr (Bestellung bis 10 Uhr)"
+      }
+    }
+  },
+  {
+    "dish": "Chili con Carne mit Mais, Paprika und Kidneybohnen Fladenbrot",
+    "desc": "Tagespreis bitte erfragen",
+    "date": "2022-08-31 00:00:00",
+    "restaurant": {
+      "5611": {
+        "title": "Lebensmittel&shy;institut KIN e.V.",
+        "lunchtime": "12:00 bis 13:15 Uhr (Bestellung bis 10 Uhr)"
+      }
+    }
+  },
+  {
+    "dish": "Gem\u00fcse-Reis \u201eNasi Goreng\u201c R\u00fchrei und pikanter Dip",
+    "desc": "Tagespreis bitte erfragen",
+    "date": "2022-09-01 00:00:00",
+    "restaurant": {
+      "5611": {
+        "title": "Lebensmittel&shy;institut KIN e.V.",
+        "lunchtime": "12:00 bis 13:15 Uhr (Bestellung bis 10 Uhr)"
+      }
+    }
+  },
+  {
+    "dish": "Gebratenes Seelachsfilet oder hausgemachte Klopse in Schnittlauchso\u00dfe mit Gem\u00fcse Kartoffeln",
+    "desc": "Tagespreis bitte erfragen",
+    "date": "2022-09-01 00:00:00",
+    "restaurant": {
+      "5611": {
+        "title": "Lebensmittel&shy;institut KIN e.V.",
+        "lunchtime": "12:00 bis 13:15 Uhr (Bestellung bis 10 Uhr)"
+      }
+    }
+  },
+  {
+    "dish": "Riesen Germkn\u00f6del mit Pflaumenkompott und Vanilleso\u00dfe",
+    "desc": "Tagespreis bitte erfragen",
+    "date": "2022-09-02 00:00:00",
+    "restaurant": {
+      "5611": {
+        "title": "Lebensmittel&shy;institut KIN e.V.",
+        "lunchtime": "12:00 bis 13:15 Uhr (Bestellung bis 10 Uhr)"
+      }
+    }
+  },
+  {
+    "dish": "Putensteak natur gebraten Nudeln Basilikum-Pesto Salatbeilage",
+    "desc": "Tagespreis bitte erfragen",
+    "date": "2022-09-02 00:00:00",
+    "restaurant": {
+      "5611": {
+        "title": "Lebensmittel&shy;institut KIN e.V.",
+        "lunchtime": "12:00 bis 13:15 Uhr (Bestellung bis 10 Uhr)"
+      }
+    }
+  }
+]

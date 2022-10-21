@@ -1,0 +1,70 @@
+<script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+
+<!-- https://www.restaurants-neumuenster.de/mtn-rst-api-json/ -->
+<!-- https://mtn.ddev.site/mtn-rst-api-json/ -->
+<h2>AlpineJS</h2>
+<div
+  x-cloak
+  x-data="{dishes: [], 'isLoading': true, details: '', date: ''}"
+  x-init="fetch('/assets/testing.json')
+    .then(response => response.json())
+    .then(response => { 
+      dishes = response.items; 
+      details = response.details.desc; 
+      date = response.details.date; 
+      isLoading = false; 
+      // console.table(date);
+      // console.table(details);
+    })
+    "
+>
+  <!-- DUMMY -->
+  <ol class="flex" x-show="isLoading">
+    <li class="dish" style="filter: blur(4px); height: 150px"></li>
+    <li class="dish" style="filter: blur(4px); height: 150px"></li>
+    <li class="dish" style="filter: blur(4px); height: 150px"></li>
+    <li class="dish" style="filter: blur(4px); height: 150px"></li>
+    <li class="dish" style="filter: blur(4px); height: 150px"></li>
+  </ol>
+
+  <ol class="flex" x-show="!isLoading">
+    <template x-for="dish in dishes">
+      <li class="dish">
+        <div class="title">
+          <strong><span class="title" x-text="dish.dish"></span></strong>
+        </div>
+        <template x-if="dish.price">
+          <div class="price">
+            <em><span x-text="dish.price"></span> EUR</em>
+          </div>
+        </template>
+        <template x-if="!dish.price">
+          <div class="price">
+            <em>Tagespreis bitte erfragen</em>
+          </div>
+        </template>
+        <template x-for="[key, value] in Object.entries(dish.restaurant)">
+          <div>
+            <div x-html="value.title"></div>
+            <div x-text="value.lunchtime"></div>
+          </div>
+        </template>
+      </li>
+    </template>
+  </ol>
+</div>
+
+<!-- <hr />
+  <div x-text="date"></div>
+  <div x-text="details"></div>
+  <span x-text="new Date().getFullYear()"></span>
+  <hr />
+  <span x-text="new Date('2014-04-03').toDateString()"></span>
+  <hr />
+  <span x-text="new Date(date)"></span>
+  <hr />
+  <span x-text="new Date(date).toLocaleDateString()"></span>
+  <hr />
+  <span x-text="new Date().toString('dd-mm-yyyy')"></span>
+  <hr /> -->
+<!-- Table will go here -->
